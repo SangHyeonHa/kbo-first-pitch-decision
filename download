@@ -1,0 +1,5 @@
+# 네이버 원본 데이터(약 3GB)는 올리지 않는다. python main.py collect 로 다시 받을 수 있다.
+data/
+__pycache__/
+*.pyc
+실행결과.txt
