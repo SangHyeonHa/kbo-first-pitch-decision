@@ -44,7 +44,7 @@ python main.py               # 이미 받은 데이터로 분석만 실행
 | 공통 | config.py, main.py | 설정값, 전체 실행 순서 | 하상현 |
 
 로직은 수업 범위(for문, if문, dict, list, 함수, math, random)로 작성했다.
-수업 밖 도구는 curl_cffi(웹 요청), json·파일 입출력, matplotlib(그림)이다.
+수업 밖 도구는 curl_cffi(웹 요청), json·파일 입출력이다.
 
 ## 5. 주요 결과 (2025 정규시즌 전체)
 
