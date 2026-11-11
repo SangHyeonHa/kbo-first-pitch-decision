@@ -36,7 +36,7 @@ python main.py               # 이미 받은 데이터로 분석만 실행
 | 단계 | 파일 | 하는 일 | 설명 담당 |
 |---|---|---|---|
 | 1 수집 | step1_collect.py, check_naver.py, check_relay.py | 경기 목록과 경기별 문자중계 JSON 저장 | |
-| 2 파싱 | step2_parse.py | JSON을 이벤트·투구 추적·선수 표로 변환 | |
+| 2 파싱 | step2_parse.py | JSON을 이벤트·투구 추적·선수 표로 변환 | 정인아 |
 | 3 타석 | step3_pa.py | 타석 테이블, 유령 타석 제거, 타석 결과 분류 | |
 | 4 투구·존 | step4_pitch.py | 투구 전 카운트, 공 높이 계산, 존 경계 찾기, 3구역 분류 | |
 | 5 기준표·분석표 | step5_value.py | 기대득점표(RE24), 득점 가치, 초구 분석 테이블 | 하상현 |
